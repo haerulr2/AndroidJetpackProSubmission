@@ -1,0 +1,173 @@
+{ "movies": [
+		{
+			"id": "m01",
+			"title": "Alita : Battle Angel",
+			"category": "Action, Science, Fiction, Adventure",
+			"duration": "2 Jam 2 Menit",
+			"release": "02/14/2019 (US)",
+			"director": "Robert Rodriguez",
+			"overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+			"poster": "https://image.tmdb.org/t/p/w185/px5Yv69I5NtDxZofmJJ3rZf2bj.jpg"
+		},
+		{
+			"id": "m02",
+			"title": "Aquaman",
+			"category": "Action, Adventure, Fantasy",
+			"duration": "2 Jam 24 Menit",
+			"release": "12/21/2018 (US)",
+			"director": "James Wan",
+			"poster": "https://image.tmdb.org/t/p/w185/uCg2HPY7rBCrh1YGpXam9LH1xKZ.jpg",
+			"overview": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at this disposal, Orm plans to conqueror the remaining oceanic poeple and then surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne."
+		},
+		{
+			"id": "m03",
+			"title": "Bohemian Rhaspody",
+			"category": "Music, Drama, History",
+			"duration": "2 Jam 15 Menit",
+			"release": "11/02/2018 (US)",
+			"director": "Bryan Singer",
+			"poster": "https://image.tmdb.org/t/p/w185/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+			"overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock'n'roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet - finding a way to keep the band together amid the success and exess."
+		},
+		{
+			"id": "m04",
+			"title": "Cold Pursuite",
+			"category": "Action, Crime, Thriller",
+			"duration": "1 Jam 59 Menit",
+			"release": "12/08/2019 (US)",
+			"director": "Hans Peter Moland",
+			"poster": "https://image.tmdb.org/t/p/w185/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg",
+			"overview": "The quite family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution."
+		},
+		{
+			"id": "m05",
+			"title": "Creed II",
+			"category": "Drama",
+			"duration": "2 Jam 10 Menit",
+			"release": "11/21/2018 (US)",
+			"director": "Steven Caple Jr.",
+			"poster": "https://image.tmdb.org/t/p/w185/qPQFWrLoQYyGxmeBgmpX901Q0mF.jpg",
+			"overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life,"
+		},
+		{
+			"id": "m06",
+			"title": "Fantastic Beast: The Crimes of Grindelwald",
+			"category": "Adventure, Fantasy, Drama",
+			"duration": "2 Jam 14 Menit",
+			"release": "11/16/2018 (US)",
+			"director": "David Yates",
+			"poster": "https://image.tmdb.org/t/p/w185/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+			"overview": "Gallert Grindelwald has escaped imprisonment and has begun gathering followers to his cause-elevating wizard above all non-magical beings. The only one capable of putting a sto[ to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agress to help, inaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world."
+		},
+		{
+			"id": "m07",
+			"title": "Glass",
+			"category": "Thriller, Drama, Science Fiction",
+			"duration": "2 Jam 9 Menit",
+			"release": "12/18/2019 (US)",
+			"director": "M. Night Shyamalan",
+			"poster": "https://image.tmdb.org/t/p/w185/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+			"overview": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both man."
+		},
+		{
+			"id": "m08",
+			"title": "How to Train Your Dragon: The Hidden",
+			"category": "Animation, Family, Adventure",
+			"duration": "1 Jam 44 Menit",
+			"release": "02/22/2019 (US)",
+			"director": "Dean DeBlois",
+			"poster": "https://image.tmdb.org/t/p/w185/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+			"overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless' discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup's reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind."
+		},
+		{
+			"id": "m09",
+			"title": "Avenger: Infinity War",
+			"category": "Adventure, Action, Science Fiction",
+			"duration": "2 Jam 29 Menit",
+			"release": "04/27/2018 (US)",
+			"director": "Joe Russo",
+			"poster": "https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+			"overview": "As the Avenger and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalatic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment-the fate of Earth and existence itself has never been more uncertain."
+		},
+		{
+			"id": "m10",
+			"title": "Master Z",
+			"category": "Action",
+			"duration": "1 Jam 47 Menit",
+			"release": "12/26/2018 (TW)",
+			"director": "Yuen Woo-ping",
+			"poster": "https://image.tmdb.org/t/p/w185/7S0rXJPS15mZMWQieiRUf7WuReX.jpg",
+			"overview": "Following his defeated by Master Ip, Cheung Tin Chi tries to make a life with his young son in Hong Kong, waiting tables at a bar that caters to expats. But it's not long before the mix of foreigners, money, and triad leader draw him once again to the fight."
+		},
+		{
+			"id": "m11",
+			"title": "Mortal Engines",
+			"category": "Adventure, Science Fiction",
+			"duration": "2 Jam 9 Menit",
+			"release": "12/14/2018 (US)",
+			"director": "Christian Rivers",
+			"poster": "https://image.tmdb.org/t/p/w185/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",
+			"overview": "Many thousands of years in the future, Earth's cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy jas an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever."
+		},
+		{
+			"id": "m12",
+			"title": "Overload",
+			"category": "Horror, War, Science Fiction",
+			"duration": "1 Jam 50 Menit",
+			"release": "11/09/2018 (US)",
+			"director": "Billy Ray",
+			"poster": "https://image.tmdb.org/t/p/w185/zheRSqYlhD885GVAjG6K9i10Rfe.jpg",
+			"overview": "France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their aircraft crashes while on a mission to destroy a radio tower in a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realise that, in addition to fighting the Nazi troops that patrol the village, they also must fight against something else."
+		},
+		{
+			"id": "m13",
+			"title": "Ralph Break The Internet",
+			"category": "Family, Animation, Comedy, Adventure",
+			"duration": "1 Jam 57 Menit",
+			"release": "11/21/2018 (US)",
+			"director": "Phil Johnston",
+			"poster": "https://image.tmdb.org/t/p/w185/dbvAUZWOepRxwUnSOvZAGsrPjta.jpg",
+			"overview": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, Sugar Rush. In way over their head, Ralph and Vanellope rely on the citizens of the internet -the netizens- to help navigate their way, including an enterpreneur named yesss, who id the head algorithm and the heart and soul of trend-making site BuzzzTube."
+		},
+		{
+			"id": "m14",
+			"title": "Robin Hood",
+			"category": "Adventure, Action, Thriller",
+			"duration": "1 Jam 56 Menit",
+			"release": "11/21/2018 (US)",
+			"director": "Ben Chandler",
+			"poster": "https://image.tmdb.org/t/p/w185/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg",
+			"overview": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown."
+		},
+		{
+			"id": "m15",
+			"title": "Serenity",
+			"category": "Thriller, Mystery, Drama",
+			"duration": "1 Jam 42 Menit",
+			"release": "01/25/2019 (US)",
+			"director": "Steven Knight",
+			"poster": "https://image.tmdb.org/t/p/w185/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
+			"overview": "The quite life of Baker Dill, a fishing boat captain who lives on the isolated Plymouth Island, where he spends his days obsessed with capturing an elusive tuna while fighting his personal demons, is interupted when someone from his past comes to him searching for help."
+		},
+		{
+			"id": "m16",
+			"title": "Spider-Man: Into the Spider-Verse",
+			"category": "Action, Adventure, Animation, Science Fiction, Comedy",
+			"duration": "1 Jam 57 Menit",
+			"release": "12/14/2018 (US)",
+			"director": "Rodney Rothman",
+			"poster": "https://image.tmdb.org/t/p/w185/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+			"overview": "Miles Morales is juggling his life between being a hing school student and being a spider-man. When Wilson 'Kingpin' Fisk uses a super collider, others from across the Spider-Verse are transported to his dimension."
+		},
+		{
+			"id": "m17",
+			"title": "T-34",
+			"category": "Action, Drama, History",
+			"duration": "2 Jam 19 Menit",
+			"release": "01/01/2019 (RU)",
+			"director": "Alexey Sidorov",
+			"poster": "https://image.tmdb.org/t/p/w185/dA6mPgdFMA03MjerpnndYytyKdT.jpg",
+			"overview": "In 1944, a courageous group of Russian soldiers managed to escape from German capativity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles."
+		}
+	]
+}

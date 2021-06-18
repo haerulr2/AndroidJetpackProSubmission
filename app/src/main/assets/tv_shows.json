@@ -1,0 +1,193 @@
+{ "tv-shows": [
+		{
+			"id": "t01",
+			"title": "Arrow",
+			"category": "Crime, Drama, Mystery, Action & Adventure",
+			"duration": "42 Menit",
+			"episodes": "22 Episodes",
+			"creator": "Greg Berlanti",
+			"poster": "https://image.tmdb.org/t/p/w185/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+			"overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow."
+		},
+		{
+			"id": "t02",
+			"title": "Doom Patrol",
+			"category": "Sci-Fi & Fantasy, Action & Adventure, Comedy",
+			"duration": "49 Menit",
+			"episodes": "9 Episodes",
+			"creator": "Jeremy Carver",
+			"poster": "https://image.tmdb.org/t/p/w185/nclcURTdlqVbDr6HPmrHC5X4qUu.jpg",
+			"overview": "The Doom Patrol's members each suffered horrible accidents that gave them superhuman abilities - but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose throuhgt The Chief, who brought them together to investigate the weirdest phenomena in existence - and to protect Eatrh from what they find."
+		},
+		{
+			"id": "t03",
+			"title": "Dragon Ball",
+			"category": "Comedy, Sci-Fi & Fantasy, Animation, Action & Adventure",
+			"duration": "25 Menit",
+			"episodes": "153 Episodes",
+			"creator": "Akira Toriyama",
+			"poster": "https://image.tmdb.org/t/p/w185/eg2CakFFQh3dvujVj2qYCe7ybvK.jpg",
+			"overview": "Long ago in thenountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the mystical Dragon Balls brought her to Goku's home. Together, they set off to find all seven and to grant her wish."
+		},
+		{
+			"id": "t04",
+			"title": "Fairy Tail",
+			"category": "Action & adventure, Animation, Comedy, Sci-Fi & Fantasy",
+			"duration": "25 Menit",
+			"episodes": "51 Episodes",
+			"creator": "Mavis Vermilion",
+			"poster": "https://image.tmdb.org/t/p/w185/yALr5dH77suFz4klaWsPzCbPOai.jpg",
+			"overview": "Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn't just any ordinary kid, he's a member of one of the world's most infamous mage guilds: Fairy Tail."
+		},
+		{
+			"id": "t05",
+			"title": "Family Guy",
+			"category": "Animation, Comedy",
+			"duration": "22 Menit",
+			"episodes": "13 Episodes",
+			"creator": "Seth MacFarlane",
+			"poster": "https://image.tmdb.org/t/p/w185/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg",
+			"overview": "Sick, twisted, politically incorret and Freakin's Sweet animated series featuring the andventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewi (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpoplar girl in town) and Chris (the middle kid, he's not very bright but jas a passion for movies). The final member of the family is Brian - a talking dog and much more than pet, he keeps Stewie in check whilst sipping Martins and sorting throught his own life issues."
+		},
+		{
+			"id": "t06",
+			"title": "The Flash",
+			"category": "Drama, Sci-Fi & Fantasy",
+			"duration": "44 Menit",
+			"episodes": "5 Episodes",
+			"creator": "Greg Berlanti",
+			"poster": "https://image.tmdb.org/t/p/w185/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+			"overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is Struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move throught Central City like an unseen guardian angel. Throught initially excited by his newfound powers, Barry is shocked to discover he is not the only 'meta-human' who was created in the wake of the accelerator explosion - and not everyone is using their new powers for good. Barry partner with S.T.A.R. Labs and dedicated his life to protect the innocent. for now, only a few close friends and assosiates known that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become..The Flash."
+		},
+		{
+			"id": "t07",
+			"title": "Gotham",
+			"category": "Drama, Fantasy, Crime",
+			"duration": "43 Menit",
+			"episodes": "12 Episodes",
+			"creator": "Bruno Heller",
+			"poster": "https://image.tmdb.org/t/p/w185/5tSHzkJ1HBnyGdcpr6wSyw7jYnJ.jpg",
+			"overview": "Evertone known the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputaion is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawing ground of the world's most iconic villains? And what circumstances created them - the larger-than-life persons who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?"
+		},
+		{
+			"id": "t08",
+			"title": "Grey's Anatomy",
+			"category": "Drama",
+			"duration": "43 Menit",
+			"episodes": "7 Episodes",
+			"creator": "Shonda Rhimes",
+			"poster": "https://image.tmdb.org/t/p/w185/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg",
+			"overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital."
+		},
+		{
+			"id": "t09",
+			"title": "Hanna",
+			"category": "Action & Adventure, Drama",
+			"duration": "50 Menit",
+			"episodes": "8 Episodes",
+			"creator": "David Farr",
+			"poster": "https://image.tmdb.org/t/p/w185/5nSSkcM3TgpllZ7yTyBOQEgAX36.jpg",
+			"overview": "This thriller and coming-of-age drama follows the jorney of an extraordinary young girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is Based on the 2011 Joe Wright film."
+		},
+		{
+			"id": "t10",
+			"title": "Marvel's Iron Fish",
+			"category": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+			"duration": "55 Menit",
+			"episodes": "10 Episodes",
+			"creator": "Scott Buck",
+			"poster": "https://image.tmdb.org/t/p/w185/rioMBKotMSu2lRIpGAaGRiDauAe.jpg",
+			"overview": "Danny Rand resurface 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny."
+		},
+		{
+			"id": "t11",
+			"title": "Naruto Shippuden",
+			"category": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+			"duration": "25 Menit",
+			"episodes": "87 Episodes",
+			"creator": "Hattake",
+			"poster": "https://image.tmdb.org/t/p/w185/vaEX9f8ud7iF0G7EoyGxAyRNV1p.jpg",
+			"overview": "Naruto Shippunden is the continuation of the original animated TV series Naruto. The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half year Naruto finally returns to his village of konoha, and sets about putting his ambitions to work, thought it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization: Akatsuki."
+		},
+		{
+			"id": "t12",
+			"title": "NCIS",
+			"category": "Crime, Action & Adventure, Drama",
+			"duration": "45 Menit",
+			"episodes": "7 Episodes",
+			"creator": "Donald p. Bellisario",
+			"poster": "https://image.tmdb.org/t/p/w185/fi8EvaWtL5CvoielOjjVvTr7ux3.jpg",
+			"overview": "From murder and espionage to terrorism and stolen submarines, team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personel, regardless of rank or position."
+		},
+		{
+			"id": "t13",
+			"title": "Rivardale",
+			"category": "Mystery, Drama, Crime",
+			"duration": "45 Menit",
+			"episodes": "7 Episodes",
+			"creator": "Roberto Aguirre-Sacasa",
+			"poster": "https://image.tmdb.org/t/p/w185/pHcNHYPg0c2vg7qay6wjJoApUgS.jpg",
+			"overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weiredness bubbling beneath Riverdale's wholesome facede."
+		},
+		{
+			"id": "t14",
+			"title": "Shameless",
+			"category": "Drama, Comedy",
+			"duration": "1 Jam",
+			"episodes": "5 Episodes",
+			"creator": "Paul Abbott",
+			"poster": "https://image.tmdb.org/t/p/w185/kE30UWJvJZ03KIIJMmL6m6YoG0l.jpg",
+			"overview": "Chicagoan Frank Gallagher is theproud single dad of six smart, industrious, independent kids, who without him would be.. perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in splite of him. They may not be like any family you known, but they makeno apologies for being exacly who they are."
+		},
+		{
+			"id": "t15",
+			"title": "Supergirl",
+			"category": "Action, Adventure, Drama, Science Fiction",
+			"duration": "42 Menit",
+			"episodes": "19Episodes",
+			"creator": "Greg Berlanti",
+			"poster": "https://image.tmdb.org/t/p/w185/vqBsgL9nd2v04ZvCqPzwtckDdFD.jpg",
+			"overview": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvars family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disasper, setting her on her journey of heroism."
+		},
+		{
+			"id": "t16",
+			"title": "Supernatural",
+			"category": "Drama, Mystery, Sci-Fi & Fantasy",
+			"duration": "45 Menit",
+			"episodes": "20 Episodes",
+			"creator": "Eric Kripke",
+			"poster": "https://image.tmdb.org/t/p/w185/pui1V389cQft0BVFu9pbsYLEW1Q.jpg",
+			"overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequenly, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back reads of America.. and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, batting every kind of supernatural threat they encounter along the way."
+		},
+		{
+			"id": "t17",
+			"title": "The Simpsons",
+			"category": "Family, Animation, Comedy, Drama",
+			"duration": "22 Menit",
+			"episodes": "19 Episodes",
+			"creator": "Matt Groening",
+			"poster": "https://image.tmdb.org/t/p/w185/k5UALlcA0EnviaCUn2wMjOWYiOO.jpg",
+			"overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday  adbentires of the Simpson family. Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the begining, the series has been a pop culture icon, attracting hundereds of celebrate of guest star. The show has also made name for itself in its fearless satrical take on politics, media and American life in general."
+		},
+		{
+			"id": "t18",
+			"title": "The Umbrella Academy",
+			"category": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+			"duration": "55 Menit",
+			"episodes": "10 Episodes",
+			"creator": "Steve Blackman",
+			"poster": "https://image.tmdb.org/t/p/w185/uYHdIs5O8tiU5p6MvUPd2jElOH6.jpg",
+			"overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalipse and more."
+		},
+		{
+			"id": "t19",
+			"title": "The Walking Dead",
+			"category": "Action & Adventure, Drama, Sci-fi & Fantasi",
+			"duration": "42 Menit",
+			"episodes": "22 Eposides",
+			"creator": "Frank Darabont",
+			"poster": "https://image.tmdb.org/t/p/w185/reKs8y4mPwPkZG99ZpbKRhBPKsX.jpg",
+			"overview": "Sheriff's deputy Rick Grimes awakenes from a coma to find a post-apocalyptic world domination by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
+		}
+	]
+}

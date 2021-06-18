@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="director">Director</string>
+    <string name="creator">Creator</string>
+    <string name="overview">Overview</string>
+    <string name="poster">Poster</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="genre">Aliran</string>
+    <string name="duration">Durasi</string>
+    <string name="release">Rilis</string>
+    <string name="episode">Episode</string>
+    <string name="catalog">Catalog</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite">Favorite</string>
+    <string name="kesalahan">Terjadi kesalahan</string>
+</resources>
