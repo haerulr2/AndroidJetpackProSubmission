@@ -33,15 +33,18 @@ class MovieViewModelTest {
     private lateinit var observer: Observer<Resource<PagedList<MovieEntity>>>
 
     @Mock
+    private lateinit var observerFavorite: Observer<PagedList<MovieEntity>>
+
+    @Mock
     private lateinit var pagedList: PagedList<MovieEntity>
 
     @Before
-    fun setup() {
+    fun setup(){
         viewModel = MovieViewModel(appRepository)
     }
 
     @Test
-    fun getMovie() {
+    fun getMovie(){
         val dummyMovie = Resource.success(pagedList)
         `when`(dummyMovie.data?.size).thenReturn(17)
         val movie = MutableLiveData<Resource<PagedList<MovieEntity>>>()
@@ -55,5 +58,22 @@ class MovieViewModelTest {
 
         viewModel.getMovies().observeForever(observer)
         verify(observer).onChanged(dummyMovie)
+    }
+
+    @Test
+    fun getFavoriteMovie(){
+        val dummyFavorite = pagedList
+        `when`(dummyFavorite.size).thenReturn(5)
+        val movie = MutableLiveData<PagedList<MovieEntity>>()
+        movie.value = dummyFavorite
+
+        `when`(appRepository.getFavoriteMovies()).thenReturn(movie)
+        val movieEntities = viewModel.getFavoriteMovies().value
+        verify(appRepository).getFavoriteMovies()
+        assertNotNull(movieEntities)
+        assertEquals(5, movieEntities?.size)
+
+        viewModel.getFavoriteMovies().observeForever(observerFavorite)
+        verify(observerFavorite).onChanged(dummyFavorite)
     }
 }

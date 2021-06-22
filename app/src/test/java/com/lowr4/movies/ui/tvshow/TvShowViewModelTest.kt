@@ -15,7 +15,6 @@ import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.mockito.Mock
-import org.mockito.Mockito
 import org.mockito.Mockito.`when`
 import org.mockito.junit.MockitoJUnitRunner
 
@@ -34,15 +33,18 @@ class TvShowViewModelTest {
     private lateinit var observer: Observer<Resource<PagedList<TvShowEntity>>>
 
     @Mock
+    private lateinit var observerFavorite: Observer<PagedList<TvShowEntity>>
+
+    @Mock
     private lateinit var pagedList: PagedList<TvShowEntity>
 
     @Before
-    fun setup() {
+    fun setup(){
         viewModel = TvShowViewModel(appRepository)
     }
 
     @Test
-    fun getTvShow() {
+    fun getTvShow(){
         val dummyTvShow = Resource.success(pagedList)
         `when`(dummyTvShow.data?.size).thenReturn(19)
         val tvShow = MutableLiveData<Resource<PagedList<TvShowEntity>>>()
@@ -55,6 +57,23 @@ class TvShowViewModelTest {
         assertEquals(19, tvShowEntities?.size)
 
         viewModel.getTvShows().observeForever(observer)
-        Mockito.verify(observer).onChanged(dummyTvShow)
+        verify(observer).onChanged(dummyTvShow)
+    }
+
+    @Test
+    fun getFavoriteTvShow(){
+        val dummyFavorite = pagedList
+        `when`(dummyFavorite.size).thenReturn(5)
+        val tvShow = MutableLiveData<PagedList<TvShowEntity>>()
+        tvShow.value = dummyFavorite
+
+        `when`(appRepository.getFavoriteTvShows()).thenReturn(tvShow)
+        val tvShowEntities = viewModel.getFavoriteTvShows().value
+        verify(appRepository).getFavoriteTvShows()
+        assertNotNull(tvShowEntities)
+        assertEquals(5, tvShowEntities?.size)
+
+        viewModel.getFavoriteTvShows().observeForever(observerFavorite)
+        verify(observerFavorite).onChanged(dummyFavorite)
     }
 }
